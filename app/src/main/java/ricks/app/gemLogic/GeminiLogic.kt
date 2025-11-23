@@ -10,7 +10,7 @@ import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 
 
-var api = "Paste key here"
+var api = "Paste key here, The app has it by default"
 var modelText = "gemini-2.5-flash"
 object GeminiLogic {
 
